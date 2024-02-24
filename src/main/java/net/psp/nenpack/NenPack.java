@@ -20,7 +20,6 @@ import org.slf4j.Logger;
 public class NenPack {
 
     public static final String MOD_ID = "nenpack2";
-
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public NenPack() {
